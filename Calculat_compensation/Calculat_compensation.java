@@ -24,4 +24,3 @@ public class Calculat_compensation {
 	      }
 	}
 }
-ssssssssssssssss
